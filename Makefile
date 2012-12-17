@@ -1,8 +1,8 @@
 CC = gcc-4.2
 CFLAGS=-Wall -g
 
-all: ex15
+all: ex16
 
 clean:
-	rm -f ex15
-	rm -rf ex15.dSYM
+	rm -f ex16
+	rm -rf ex16.dSYM
